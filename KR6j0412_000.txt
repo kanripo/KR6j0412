@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說妙吉祥菩薩陀羅尼
+#+DATE: 2015-08-30 20:31:57.212641
+#+PROPERTY: JUAN 0
