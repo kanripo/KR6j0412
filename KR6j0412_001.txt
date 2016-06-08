@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:57.026076
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:05
 #+TITLE: 佛說妙吉祥菩薩陀羅尼
 #+PROPERTY: CBETA_ID T20n1186
 #+PROPERTY: ID KR6j0412
@@ -31,9 +31,9 @@ No.1186¶
 　無量功德莊嚴身
 　廣說妙法濟群品¶
 　天龍大力修羅等
-　悉皆捧足而頂禮
+　悉皆捧足而頂禮」
 #+END_VERSE
-」¶
+¶
 
 妙吉祥菩薩陀羅尼曰。¶
 
