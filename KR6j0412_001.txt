@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:57.026076
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:05
 #+TITLE: 佛說妙吉祥菩薩陀羅尼
 #+PROPERTY: CBETA_ID T20n1186
 #+PROPERTY: ID KR6j0412
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1186
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0412_T_000-0807b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0412_T_001-0807b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1186¶
-
- 佛說妙吉祥菩薩陀羅尼¶
+No. 1186¶
+佛說妙吉祥菩薩陀羅尼¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 #+BEGIN_VERSE
 「　稽首最上普遍智
@@ -31,9 +29,9 @@ No.1186¶
 　無量功德莊嚴身
 　廣說妙法濟群品¶
 　天龍大力修羅等
-　悉皆捧足而頂禮
+　悉皆捧足而頂禮」
 #+END_VERSE
-」¶
+¶
 
 妙吉祥菩薩陀羅尼曰。¶
 
